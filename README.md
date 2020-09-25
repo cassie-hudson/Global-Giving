@@ -3,7 +3,7 @@ This is a skills test for the nonprofit Global Giving. The best way to review th
 1. Read the process overview below.
 2. Review the dataPrepation.ipynb file.
 3. Review the corr.ipynb file.
-4. Watch the linked video walk-through of the preliminary AWS QuickSight dashboard.
+4. Watch the linked video walk-through of the preliminary AWS QuickSight dashboard (https://unt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07cc209-5c0f-4a23-86fa-ac4100ef3a76)
 
 ## Process Overview
 To tackle this project, I engaged in the following process. 
@@ -18,7 +18,7 @@ To tackle this project, I engaged in the following process.
 
 Now that you've read through this--I recommend reviewing the dataPreparation.ipynb file and then the corr.ipynb file before watching the dashboard overview:
 
-<iframe src="https://unt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=f07cc209-5c0f-4a23-86fa-ac4100ef3a76&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+Dashboard Overview: https://unt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07cc209-5c0f-4a23-86fa-ac4100ef3a76
 
 ## Next Steps
 1. The first next step for me is actual to backtrack to what I believe the first-first step should be in a dashboard design process--communicating with the end-user about their needs. What would they like to see? What questions do they have? What would be helpful to them in their day-to-day work? What do they feel like is difficult to keep track of? 
