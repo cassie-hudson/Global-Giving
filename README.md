@@ -16,6 +16,10 @@ To tackle this project, I engaged in the following process.
 
 **Documentation Preparation (1 hour):** Finally, I built out the GitHub repository, wrote the README.md file (as I'm doing now) and recorded a short video walk-through of the AWS QuickSight dashboard.
 
+Now that you've read through this--I recommend reviewing the dataPreparation.ipynb file and then the corr.ipynb file before watching the dashboard overview:
+
+<iframe src="https://unt.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=f07cc209-5c0f-4a23-86fa-ac4100ef3a76&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Next Steps
 1. The first next step for me is actual to backtrack to what I believe the first-first step should be in a dashboard design process--communicating with the end-user about their needs. What would they like to see? What questions do they have? What would be helpful to them in their day-to-day work? What do they feel like is difficult to keep track of? 
 2. This is another "first step" next step type issue, but it would be learning more about the history of this dataset and Global Giving generally. What changes have been made that could result in changes in delinquency rates? Have the goals or procedures changed at all over time? This might be a place to measure effects or it might just serve as a cut-off point for cohort analysis. As in, maybe we're not comparing apples to applies when we compare 2005 Global Giving to 2018. 
