@@ -1,9 +1,10 @@
 # Global Giving
 This is a skills test for the nonprofit Global Giving. The best way to review this project is in this order:
-1. Read the process overview below.
+1. Read the README.md Process Overview below.
 2. Review the dataPrepation.ipynb file.
 3. Review the corr.ipynb file.
 4. Watch the linked video walk-through of the preliminary AWS QuickSight dashboard (https://unt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07cc209-5c0f-4a23-86fa-ac4100ef3a76)
+5. Return to the README.md file to read Next Steps and Strengths & Interests.
 
 ## Process Overview
 To tackle this project, I engaged in the following process. 
